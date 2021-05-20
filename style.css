@@ -167,3 +167,11 @@ nav{
 .item-sconti{
     margin-bottom: 40px;
 }
+/* CONTAINER RIGA 414 */
+.bg-blue{
+    background-color: rgb(22, 22, 46);
+    color: white;
+}
+.color-button{
+    color: black;
+}
