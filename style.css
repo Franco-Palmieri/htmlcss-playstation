@@ -135,9 +135,28 @@ nav{
     margin: 10px 0 20px 0;
 }
 /* CONTAINER RIGA 288 */
+.bg-gray-light{
+    background-color: lightgray;
+}
+.logo-section img{
+    width: 100%;
+}
 .section-2{
     margin: 50px 0;
 }
 .title-section{
     text-align: center;
+}
+/* CONTAINER RIGA 358 */
+.ps-plus-section-uno{
+    padding: 30px 0;
+}
+.ps-plus-section-due img{
+    width: 100%;
+}
+.section-middle{
+    margin: 40px 0;
+}
+.btn-light{
+    color: blue;
 }
