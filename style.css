@@ -138,9 +138,6 @@ nav{
 .bg-gray-light{
     background-color: lightgray;
 }
-.logo-section img{
-    width: 100%;
-}
 .section-2{
     margin: 50px 0;
 }
@@ -149,14 +146,24 @@ nav{
 }
 /* CONTAINER RIGA 358 */
 .ps-plus-section-uno{
-    padding: 30px 0;
+    padding: 20px;
 }
 .ps-plus-section-due img{
     width: 100%;
 }
 .section-middle{
-    margin: 40px 0;
+    margin: 30px 0;
 }
 .btn-light{
     color: blue;
+}
+.logo-section img{
+    width: 100%;
+}
+/* CONTAINER RIGA 384 */
+.item-sconti img {
+    width: 100%;
+}
+.item-sconti{
+    margin-bottom: 40px;
 }
