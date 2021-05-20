@@ -31,15 +31,22 @@ nav{
 /* HEADER */
 .contenitore{
     margin-top: 60px;
-    height: 600px;
-    border: 1px solid black;
     background-image: url(./img/jumbo-bg.png);
+    height: 600px;
+}
+.contenitore, .contenitore-2{
+    border: 1px solid black;
     background-size: cover;
     background-position: center;
     color: white;
 }
+.contenitore-2{
+    background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
+    height: 600px;
+
+}
 .container{
-    border: 1px solid black;
+    border: 2px solid red;
 }
 .box-jumbo{
     margin-top: 250px;
@@ -86,4 +93,15 @@ nav{
 }
 .item-picture img{
     width: 100%;
+}
+/* CONTENITORE LINEA 151 */
+.box-contenitore-due{
+    margin-top: 30px;
+}
+.logo-contenitore-due img{
+    width: 100%;
+    margin-bottom: 15px;
+}
+.description-jumbo-due{
+    margin: 20px 0 15px 0;
 }
