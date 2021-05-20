@@ -43,7 +43,6 @@ nav{
 .contenitore-2{
     background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
     height: 600px;
-
 }
 .container{
     border: 2px solid red;
@@ -60,7 +59,7 @@ nav{
 .logo-jumbo img{
     width: 100%;
 }
-/* CONTAINER LINEA 81 */
+/* CONTAINER RIGA 81 */
 .row-mini-games{
     margin-top: 20px;
 }
@@ -91,12 +90,18 @@ nav{
 .console-section img{
     width: 100%;
 }
-.item-picture img{
+.item-picture a img{
     width: 100%;
 }
-/* CONTENITORE LINEA 151 */
+.item-name{
+    text-align: center;
+}
+.item-picture:hover{
+    border-bottom: 2px solid rgb(71, 85, 209);
+}
+/* CONTENITORE RIGA 156 */
 .box-contenitore-due{
-    margin-top: 30px;
+    margin-top: 50px;
 }
 .logo-contenitore-due img{
     width: 100%;
@@ -104,4 +109,22 @@ nav{
 }
 .description-jumbo-due{
     margin: 20px 0 15px 0;
+}
+/* CONTAINER RIGA 186 */
+.bg-gray{
+    background-color: rgb(53, 52, 52);
+    color: white;
+}
+.title-section{
+    margin: 30px 0 20px 0;
+}
+.subtitle-items{
+    margin-bottom: 20px;
+}
+.item-games img{
+    width: 100%;
+    border-radius: 10px;
+}
+.game-name{
+    margin: 10px 0 20px 0;
 }
