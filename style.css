@@ -43,9 +43,7 @@ nav{
 .contenitore-2{
     background-image: url(./img/it-takes-two-hero-banner-desktop.jpg);
     height: 600px;
-}
-.container{
-    border: 2px solid red;
+    margin-top: 20px;
 }
 .box-jumbo{
     margin-top: 250px;
@@ -64,9 +62,9 @@ nav{
     margin-top: 20px;
 }
 .box-mini-games{
-    border: 2px solid white;
     border-radius: 20px;
     padding: 3px;
+    border: 2px solid rgb(255, 255, 255);
 }
 .box-mini-games:hover{
     border: 2px solid rgb(71, 85, 209);
@@ -78,7 +76,7 @@ nav{
 }
 .section{
     text-align: center;
-    margin: 20px;
+    margin-top: 100px;
 }
 .span-section{
     color: rgb(45, 90, 175);
@@ -95,6 +93,10 @@ nav{
 }
 .item-name{
     text-align: center;
+    border-bottom: 2px solid white;
+}
+.item-picture{
+    border-bottom: 2px solid white;
 }
 .item-picture:hover{
     border-bottom: 2px solid rgb(71, 85, 209);
@@ -121,7 +123,11 @@ nav{
 .subtitle-items{
     margin-bottom: 20px;
 }
-.item-games img{
+.game-name a{
+    text-decoration: none;
+    color: white;
+}
+.item-games a img{
     width: 100%;
     border-radius: 10px;
 }
