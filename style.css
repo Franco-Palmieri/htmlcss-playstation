@@ -4,6 +4,12 @@
     background-color: #3f4346;
     border-color: #3f4346;
 }
+nav{
+    height: 60px;
+}
+.bg-navbar{
+    background-color: white;
+}
 .btn{
     border-radius: 20px;
 }
@@ -21,4 +27,20 @@
 }
 .navbar-icon i{
     color: gray;
+}
+/* HEADER */
+.contenitore{
+    margin-top: 60px;
+    height: 600px;
+    border: 1px solid black;
+    background-image: url(./img/jumbo-bg.png);
+    background-size: cover;
+    background-position: center;
+    color: white;
+}
+.container{
+    border: 1px solid white;
+}
+.box-jumbo{
+    border: 1px solid red;
 }
