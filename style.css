@@ -39,8 +39,51 @@ nav{
     color: white;
 }
 .container{
-    border: 1px solid white;
+    border: 1px solid black;
 }
 .box-jumbo{
-    border: 1px solid red;
+    margin-top: 250px;
+}
+.title-jump{
+    margin: 20px 0;
+}
+.description-jumbo{
+    margin-bottom: 20px;
+}
+.logo-jumbo img{
+    width: 100%;
+}
+/* CONTAINER LINEA 81 */
+.row-mini-games{
+    margin-top: 20px;
+}
+.box-mini-games{
+    border: 2px solid white;
+    border-radius: 20px;
+    padding: 3px;
+}
+.box-mini-games:hover{
+    border: 2px solid rgb(71, 85, 209);
+}
+.box-mini-games img{
+    border-radius: 20px;
+    width: 100%;
+    height: 100%;
+}
+.section{
+    text-align: center;
+    margin: 20px;
+}
+.span-section{
+    color: rgb(45, 90, 175);
+    font-weight: bold;
+}
+.description-section{
+    color: gray;
+}
+.console-section img{
+    width: 100%;
+}
+.item-picture img{
+    width: 100%;
 }
