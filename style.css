@@ -203,6 +203,9 @@ footer {
     color: white;
    text-decoration: none;
 }
+.foot-text{
+    margin: 10px 0;
+}
 .foot-text a{
     color: white;
 }
