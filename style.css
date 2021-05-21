@@ -1,4 +1,10 @@
 /* NAVBAR */
+.fa-chevron-down:before {
+    content: "\f078";
+    vertical-align: middle;
+    font-weight: 900;
+    font-size: 10px;
+}
 .btn-secondary {
     color: #fff;
     background-color: #3f4346;
@@ -63,7 +69,7 @@ nav{
 }
 .box-mini-games{
     border-radius: 20px;
-    padding: 3px;
+    padding: 2px;
     border: 2px solid rgb(255, 255, 255);
 }
 .box-mini-games:hover{
