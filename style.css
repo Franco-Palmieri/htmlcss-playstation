@@ -118,13 +118,11 @@ nav{
 .description-jumbo-due{
     margin: 20px 0 15px 0;
 }
-/* CONTAINER RIGA 186 */
+/* CONTAINER RIGA 188 */
 .bg-gray{
     background-color: rgb(53, 52, 52);
     color: white;
-}
-.title-section{
-    margin: 30px 0 20px 0;
+    padding: 20px;
 }
 .subtitle-items{
     margin-bottom: 20px;
@@ -180,4 +178,34 @@ nav{
 }
 .color-button{
     color: black;
+}
+/* CONTAINER RIGA 442 */
+.box-social a img{
+    width: 100%;
+}
+.box-social{
+    margin: 20px 0;
+}
+/* FOOTER RIGA 461 */
+footer {
+    background-color: rgb(39, 39, 216);
+    color: white;
+    padding: 40px 0;
+}
+.box-footer img{
+    width: 100%;
+}
+.lista-footer  div ul li{
+    list-style: none;
+    margin: 5px 0;
+}
+.lista-footer  div ul li a{
+    color: white;
+   text-decoration: none;
+}
+.foot-text a{
+    color: white;
+}
+.language{
+    margin: 20px 0;
 }
