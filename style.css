@@ -118,7 +118,7 @@ nav{
 .description-jumbo-due{
     margin: 20px 0 15px 0;
 }
-/* CONTAINER RIGA 188 */
+/* CONTAINER RIGA 189 */
 .bg-gray{
     background-color: rgb(53, 52, 52);
     color: white;
@@ -138,7 +138,7 @@ nav{
 .game-name{
     margin: 10px 0 20px 0;
 }
-/* CONTAINER RIGA 288 */
+/* CONTAINER RIGA 291 */
 .bg-gray-light{
     background-color: lightgray;
 }
@@ -147,8 +147,9 @@ nav{
 }
 .title-section{
     text-align: center;
+    margin: 40px 0;
 }
-/* CONTAINER RIGA 358 */
+/* CONTAINER RIGA 361 */
 .ps-plus-section-uno{
     padding: 20px;
 }
@@ -164,14 +165,14 @@ nav{
 .logo-section img{
     width: 100%;
 }
-/* CONTAINER RIGA 384 */
+/* CONTAINER RIGA 387 */
 .item-sconti img {
     width: 100%;
 }
 .item-sconti{
     margin-bottom: 40px;
 }
-/* CONTAINER RIGA 414 */
+/* CONTAINER RIGA 417 */
 .bg-blue{
     background-color: rgb(22, 22, 46);
     color: white;
@@ -179,14 +180,14 @@ nav{
 .color-button{
     color: black;
 }
-/* CONTAINER RIGA 442 */
+/* CONTAINER RIGA 443 */
 .box-social a img{
     width: 100%;
 }
 .box-social{
     margin: 20px 0;
 }
-/* FOOTER RIGA 461 */
+/* FOOTER RIGA 462 */
 footer {
     background-color: rgb(39, 39, 216);
     color: white;
